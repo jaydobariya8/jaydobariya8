@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jay-dobariya-3208b8218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-dobariya-3208b8218" height="30" width="40" /></a>
 <a href="https://instagram.com/jay_dobariya_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay_dobariya_8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaydobaiya2341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaydobaiya2341" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaydobariya2341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaydobaiya2341" height="30" width="40" /></a>
 <a href="https://discord.gg/8500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8500" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>

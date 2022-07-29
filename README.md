@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I'm Jay Dobariya</h1>
-<h3 align="center">A self-taught passionate Front-End developer from India.</h3>
+<h3 align="center">I Love Exploring🚀 and Creating, I'm a Lifelong Learner👨‍💻 and Always Excite to Take Challanges.</h3>
 
-- 🌱 I’m currently learning **Web development** and also interested in **Competitive Programming.**
+- 🌱 I’m currently learning **Web development** and also interested in **Java Devlopment.**
 
 - 📫Reach me out at **jaydobariya23412@gmail.com**
 

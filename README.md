@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I'm Jay Dobariya</h1>
 <h3 align="center">I Love Exploring🚀 and Creating, I'm a Lifelong Learner👨‍💻 and Always Excite to Take Challanges.</h3>
 
-- 🌱 I’m currently learning **Java Language** and also interested in **Content Creation.**
+- 🌱 I’m currently learning **AI and Aututomation** and also interested in **Content Creation.**
 
 - 📫Reach me out at **jaydobariya23412@gmail.com**
 
